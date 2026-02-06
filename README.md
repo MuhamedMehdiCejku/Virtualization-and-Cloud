@@ -1,2 +1,2 @@
 # Virtualization-and-Cloud
-Simple example related to Operating Systems - focused on UNIX,
+Simple example related to Operating Systems - focused on UNIX
